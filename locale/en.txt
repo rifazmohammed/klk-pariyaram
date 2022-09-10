@@ -1,0 +1,30 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala Lalithakala Akademi Art Gallery, Pariyaram
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_48524C84_586B_A0F3_41C6_361B2C89DB1E.label = Art Gallery, Pariyaram
+panorama_485254A1_586B_A035_41C9_0BF4AFA83494.label = Art Gallery, Pariyaram
+panorama_485298A5_586B_603D_41D5_E85EDB7E5C05.label = Art Gallery, Pariyaram
+panorama_4852CC89_586B_60F5_41CE_12331917B267.label = Art Gallery, Pariyaram
+panorama_4853608F_586B_600D_41C4_89DF7BF01E11.label = Art Gallery, Pariyaram
+panorama_4853909A_586B_A017_41C8_B2D8198317EF.label = Art Gallery, Pariyaram
+panorama_4853B86E_586B_E00F_41C8_A473D774492F.label = Art Gallery, Pariyaram
+panorama_48E78487_586A_A0FD_41C0_6EF27BB55E6E.label = Art Gallery, Pariyaram
